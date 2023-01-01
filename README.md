@@ -27,9 +27,9 @@ My name is Thiago. Welcome my github profile.
 ## Study and Work Fields
 
 - Data Analysis
-- Computacional Simulation
+- Computational Simulation
 - Machine Design
-- Machine Learning to Mechanical Engineering 
+- Machine Learning in Mechanical Engineering 
 - CAE & CAD
 - Education
         
