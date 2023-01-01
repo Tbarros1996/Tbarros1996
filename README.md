@@ -13,10 +13,10 @@ My name is Thiago. Welcome my github profile.
 🏫 - IFPE - Mechanical Engineering 
 
 
-My Links:
+## My Links:
 
-<img src="https://user-images.githubusercontent.com/86922706/210178012-c5106eb4-6c49-4acb-a804-14dc5da2dc6d.png" alt="drawing" width="10" />[  Grabcad](https://grabcad.com/thiago.barros-18) <img src="https://user-images.githubusercontent.com/86922706/210178409-6ea78685-33e9-4fa3-a557-1bbd2ac34c9f.jpeg" alt="drawing" width="10" />[  Lattes](http://lattes.cnpq.br/5329376964286529)<img src="https://user-images.githubusercontent.com/86922706/210178640-8a12972d-603e-4f5a-9d30-7eb4311c317c.svg" alt="drawing" width="10" />[  Linkedin](https://br.linkedin.com/in/tbarrostec336)
-
+[![alttext](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tbarrostec336)
+[![alttext](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeGxsbFIdCEmaoYIMko4Xwg)
 
 ## Programming Languages and Softwares
 
@@ -30,10 +30,7 @@ My Links:
 - Machine Learning to Mechanical Engineering 
 - CAE & CAD
 - Education
-          
-
-
-
+        
 
 
 
