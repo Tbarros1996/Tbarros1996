@@ -1,4 +1,9 @@
-### Hi there 👋
+$$
+\int_{a}^{b} f(x)dx = \lim_{x \to \infty} \sum_{i=1}^{n} \frac{b-a}{n} \times f(x{i})
+$$
+### 
+
+Hello
 
 <!--
 **Tbarros1996/Tbarros1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
