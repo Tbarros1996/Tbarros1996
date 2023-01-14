@@ -12,7 +12,9 @@ My name is Thiago. Welcome my github profile.
 
 🏠 - Recife - Pernambuco - Brazil
 
-🏫 - IFPE - Mechanical Engineering 
+👨‍🎓 - IFPE - Mechanical Engineering 
+
+🏭 - Magneti Marelli
 
 
 ## My Links:
