@@ -1,10 +1,5 @@
 <img align="right" width="20%" src="https://github.com/Tbarros1996/Tbarros1996/blob/main/engenheiro.gif">
 
-## The Most Beautiful Equation in the World
-$$
-\int_{a}^{b} f(x)dx = \lim_{x \to \infty} \sum_{i=1}^{n} \frac{b-a}{n} \times f(x{i})
-$$
-
 ## About Me:
 Hello,
 
