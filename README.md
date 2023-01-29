@@ -36,4 +36,4 @@ My name is Thiago. Welcome my github profile.
 ## Dashboard
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tbarros1996&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbarros1996&layout=demo&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbarros1996&count_private=true&layout=demo&theme=dark)
