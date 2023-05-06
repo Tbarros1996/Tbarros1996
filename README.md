@@ -25,13 +25,11 @@ My name is Thiago. Welcome my github profile.
 
 ## Study and Work Fields
 
-- Data Analysis
+- Data Science - Machine Learning - Supervised Learning
+- Statistical Process Control
 - Computational Simulation
 - Machine Design
-- Machine Learning in Mechanical Engineering 
-- CAE & CAD
-- Education
-        
+- CAE & CAD - CFD/FEA
 
 ## Dashboard
 
