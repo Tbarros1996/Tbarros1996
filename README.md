@@ -25,7 +25,7 @@ I am a mechanical engineering student. I have created projects in my academic li
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="drawing" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="drawing" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="drawing" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" alt="drawing" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="drawing" width="50" /><img src="https://user-images.githubusercontent.com/86922706/210180063-af2d705a-0dbc-41b5-9dbc-59b9b6567fb3.png" alt="drawing" width="50" /><img src="https://www.eucap2017.org/images/exhibitors-paris-2017/ansys-logo-w-blur.eps/image" alt="drawing" width="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="drawing" width="80" /><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="drawing" width="50" /><img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="drawing" width="60" />
 
-## Study and Work Fields
+## Interests/Works
 
  - Programming
  - Data Science - Machine Learning - Supervised Learning
