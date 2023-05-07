@@ -5,11 +5,13 @@ Hello,
 
 My name is Thiago. Welcome my github profile.
 
+I am a mechanical engineering student. I have created projects in my academic life in the areas of machine design and computational fluid dynamics.
+
 🏠 - Recife - Pernambuco - Brazil
 
 👨‍🎓 - IFPE - Mechanical Engineering 
 
-🏭 - Magneti Marelli
+🏭 - Marelli
 
 
 ## My Links:
@@ -25,11 +27,12 @@ My name is Thiago. Welcome my github profile.
 
 ## Study and Work Fields
 
-- Data Science - Machine Learning - Supervised Learning
-- Statistical Process Control
-- Computational Simulation
-- Machine Design
-- CAE & CAD - CFD/FEA
+ - Programming
+ - Data Science - Machine Learning - Supervised Learning
+ - Statistical Process/Quality Control
+ - Computer Aided Design - CAD
+ - Computer Aided Engineering - CAE - CFD/FEA
+ - Machine Design
 
 ## Dashboard
 
