@@ -33,8 +33,3 @@ I am a mechanical engineering student. I have created projects in my academic li
  - Computer Aided Design - CAD
  - Computer Aided Engineering - CAE - CFD/FEA
  - Machine Design
-
-## Dashboard
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tbarros1996&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbarros1996&count_private=true&layout=demo&theme=dark)
