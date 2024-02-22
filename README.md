@@ -11,7 +11,7 @@ I am a mechanical engineering student. I have created projects in my academic li
 
 👨‍🎓 - IFPE - Mechanical Engineering 
 
-🏭 - automotive Technician | Data Analyst
+🏭 - Automotive Technician | Data Analyst
 
 
 ## My Links:
