@@ -23,7 +23,7 @@ I am a mechanical engineering student. I have created projects in my academic li
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=latex,matlab,py,c,octave,r,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,matlab,py,c,octave,r,sql,vba)](https://skillicons.dev)
 
                             
 
