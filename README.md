@@ -21,9 +21,11 @@ I am a mechanical engineering student. I have created projects in my academic li
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tbarros1996)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16546652/thiago-barros)
 
-## Programming Languages and Softwares
+## My Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="drawing" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="drawing" width="50" /><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="drawing" width="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="drawing" width="80" /><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="drawing" width="50" /><img                                  
+[![My Skills](https://skillicons.dev/icons?i=latex,matlab,py,c,octave,r,sql)](https://skillicons.dev)
+
+                            
 
 ## Interests/Works
 
