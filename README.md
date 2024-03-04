@@ -1,6 +1,8 @@
-<img align="right" width="20%" src="https://github.com/Tbarros1996/Tbarros1996/blob/main/engenheiro.gif">
+<img align="center" width="80%" src="https://github.com/Tbarros1996/Tbarros1996/blob/main/universo.gif">
+
 
 ## About Me:
+
 Hello,
 
 My name is Thiago. Welcome my github profile.
@@ -9,7 +11,7 @@ I am a mechanical engineering student. I have created projects in my academic li
 
 🏠 - Recife - Pernambuco - Brazil
 
-👨‍🎓 - IFPE - Mechanical Engineering 
+👨‍🎓 - Mechanical Engineering 
 
 ## My Links:
 
@@ -20,17 +22,17 @@ I am a mechanical engineering student. I have created projects in my academic li
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=latex,matlab,py,c,octave,r,sql,vba)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,matlab,py,c,octave,r,cpp,sqlite,pycharm,vscode,windows,linux,discord,autocad,arduino)](https://skillicons.dev)
 
-[![Thiago Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=Tbarros1996)](https://github.com/Tbarros1996/github-readme-stats)
+[![Thiago Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=Tbarros1996&theme=transparent)](https://github.com/Tbarros1996/github-readme-stats)
 
-                            
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbarros1996&theme=transparent)
+                           
 
 ## Interests/Works
+ - Software Development
+ - Games
+ - Data Science
+ - CAE/CAD
+ - Math, Physics, Enginering and Astronomy
 
- - Programming
- - Data Science - Machine Learning - Supervised Learning
- - Statistical Process/Quality Control
- - Computer Aided Design - CAD
- - Computer Aided Engineering - CAE - CFD/FEA
- - Machine Design
