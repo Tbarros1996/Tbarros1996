@@ -11,9 +11,6 @@ I am a mechanical engineering student. I have created projects in my academic li
 
 👨‍🎓 - IFPE - Mechanical Engineering 
 
-🏭 - Automotive Technician | Data Analyst
-
-
 ## My Links:
 
 [![alttext](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tbarrostec336)
@@ -24,6 +21,8 @@ I am a mechanical engineering student. I have created projects in my academic li
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=latex,matlab,py,c,octave,r,sql,vba)](https://skillicons.dev)
+
+[![Thiago Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=Tbarros1996)](https://github.com/Tbarros1996/github-readme-stats)
 
                             
 
