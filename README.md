@@ -1,6 +1,3 @@
-<img align="center" width="80%" src="https://github.com/Tbarros1996/Tbarros1996/blob/main/universo.gif">
-
-
 ## About Me:
 
 Hello,
